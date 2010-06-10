@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-06-10 22:28+0200\n"
+"PO-Revision-Date: 2010-06-10 22:28+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+
+#. [campaign]: id=MAP
+#. [scenario]: id=MAP
+#: MAP/_main.cfg:10 MAP/scenarios/MAP.cfg:6
+msgid "Modifiable Android Project"
+msgstr ""
+
+#. [campaign]: id=MAP
+#: MAP/_main.cfg:11
+msgid "MAP"
+msgstr ""
+
+#. [campaign]: id=MAP
+#: MAP/_main.cfg:13
+msgid ""
+"Explore the a strange new underground world as a mechanical android. Explore "
+"areas, collect upgradable items, fight creatures, etc. Can you fully explore "
+"the world and survive whatever lurks below?"
+msgstr ""
+
+#. [campaign]: id=MAP
+#: MAP/_main.cfg:16
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=MAP
+#: MAP/_main.cfg:17
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=MAP
+#: MAP/_main.cfg:18
+msgid "Hard"
+msgstr ""
+
+#. [about]
+#: MAP/_main.cfg:22
+msgid "Campaign Design/Concept"
+msgstr ""
+
+#. [entry]
+#: MAP/_main.cfg:24 MAP/_main.cfg:30 MAP/_main.cfg:39
+msgid "Jeremy Levegood (SpoOkyMagician)"
+msgstr ""
+
+#. [about]
+#: MAP/_main.cfg:28
+msgid "WML"
+msgstr ""
+
+#. [entry]
+#: MAP/_main.cfg:33
+msgid "Lari Nieminen (zookeeper)"
+msgstr ""
+
+#. [about]
+#: MAP/_main.cfg:37
+msgid "Art"
+msgstr ""
+
+#. [about]
+#: MAP/_main.cfg:43
+msgid "Testers"
+msgstr ""
+
+#. [entry]
+#: MAP/_main.cfg:45
+msgid "Unknown (zinc23)"
+msgstr ""
+
+#. [part]
+#: MAP/scenarios/MAP.cfg:14
+msgid ""
+"The year is 4032... In a very distant galaxy, there is very large, "
+"unexplored, planet... Simply known as 'YS-0-KOP'. Very little is known about "
+"this planet."
+msgstr ""
+
+#. [part]
+#: MAP/scenarios/MAP.cfg:19
+msgid ""
+"The 'Falcon XVI' (A exploration spaceship) has been sent to the planet to "
+"explore and look for any form of intelligent life. They find what looks to "
+"be a cave on the planets surface."
+msgstr ""
+
+#. [part]
+#: MAP/scenarios/MAP.cfg:30
+msgid ""
+"They decide to send an android on a small ship down to the planet to "
+"investigate. The android was programmed to terminate any threats if anything "
+"became hostile to it's survival."
+msgstr ""
+
+#. [part]
+#: MAP/scenarios/MAP.cfg:41
+msgid ""
+"Armed with a simple energy cannon, the android was sent to the cave. What "
+"will the android encounter along the way? What will be discover about the "
+"planet? So many questions, with very little answers... Continue the game to "
+"find out..."
+msgstr ""
+
+#. [objectives]
+#: MAP/scenarios/MAP.cfg:111
+msgid "Explore this underground world found on the planet."
+msgstr ""
+
+#. [objectives]
+#: MAP/scenarios/MAP.cfg:112
+msgid ""
+"Hints/Tips: Right clicking will give you menu item to examine things or get "
+"help about this campaign."
+msgstr ""
+
+#. [objective]: condition=win
+#: MAP/scenarios/MAP.cfg:115
+msgid "Explore the underground world and return to the surface."
+msgstr ""
+
+#. [objective]: condition=lose
+#: MAP/scenarios/MAP.cfg:119
+msgid "Death of Android."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:133
+msgid ""
+"Hello, thanks for downloading/playing MAP or Modifiable Android Project. For "
+"those who do not know what the scenario is about, please read the following "
+"messages carefully. This explains how the game works and is played."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:134
+msgid "Scenario Information 1"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:139
+msgid ""
+"This scenario has a platform like style to it. Everytime you move or spot an "
+"enemy and you are in the air from moving, (Meaning, there is not a wall "
+"below you.) you will fall straight downward until you land on something. (a "
+"wall or enemy.)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:140
+msgid "Scenario Information 2"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:145
+msgid ""
+"If you wish to understand the game a bit more, right click items/enemies to "
+"get some basic information about it. (A examine object menu item will show "
+"up. It will be an image of an eyeball.) If you move to the item/object, you "
+"may trigger an event relating to the object/item as well."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:146
+msgid "Scenario Information 3"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:151
+msgid ""
+"If you find yourself somewhere that looks too dangerous or impossible to "
+"pass, you may be going the wrong way. Turn around and explore the world some "
+"more. There are many upgrades around the world for you to become more "
+"powerful."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:152
+msgid "Scenario Information 4"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:157
+msgid ""
+"Finally, I would like to point out that you SHOULD use the save/reload/auto-"
+"save game function(s). If you don't, you will find yourself dead and cannot "
+"reload. (Meaning, you will have to start all over again...)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:158
+msgid "Scenario Information 5"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:165
+msgid ""
+"In conclusion, this is the basic idea to the scenario/campaign. If you need "
+"any more help, please ask other players or me. Have fun, good luck, and good "
+"game. :)\n"
+"\n"
+"~ SpoOkyMagician"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:166
+msgid "Scenario Information Final"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:173 MAP/scenarios/MAP.cfg:181
+#: MAP/scenarios/MAP.cfg:189
+msgid ""
+"(Currently, there is no difference with difficulty... Although, once it is "
+"changed, the description will go here...)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:174
+msgid "Easy Mode"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:182
+msgid "Normal Mode"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:190
+msgid "Hard Mode"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:514
+msgid "Hook"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:515
+msgid ""
+"This allows you to hold on to grabbable terrains. (The terrain that is "
+"grabbable is the encampment castle terrain.)"
+msgstr ""
+
+#. [effect]: type=pierce
+#: MAP/scenarios/MAP.cfg:523
+msgid "hook"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:563
+msgid "Bolt Cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:564
+msgid ""
+"This allows you to shoot out a powerful bolt. (This deals pierce damage.)"
+msgstr ""
+
+#. [effect]: type=pierce
+#: MAP/scenarios/MAP.cfg:572
+msgid "bolt cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:612
+msgid "Rock Cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:613
+msgid ""
+"This allows you to shoot out a powerful rock. (This deals impact damage.)"
+msgstr ""
+
+#. [effect]: type=impact
+#: MAP/scenarios/MAP.cfg:621
+msgid "rock cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:661
+msgid "Water Cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:662
+msgid ""
+"This allows you to shoot out a powerful blast of water. (This deals cold "
+"damage.)"
+msgstr ""
+
+#. [effect]: type=cold
+#: MAP/scenarios/MAP.cfg:670
+msgid "water cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:710
+msgid "Lava Cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:711
+msgid ""
+"This allows you to shoot out a powerful blast of lava. (This deals fire "
+"damage.)"
+msgstr ""
+
+#. [effect]: type=fire
+#: MAP/scenarios/MAP.cfg:719
+msgid "lava cannon"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:759
+msgid "Rocket Booster"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:760
+msgid ""
+"This allows you to move faster than normal. (You can now move 8 hexes per "
+"turn.)"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:802
+msgid "Compression Box"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:803
+msgid ""
+"This allows you to move in small passageways. (You can now move though deep "
+"water and caves.)"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:849
+msgid "Elemental Armor"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:850
+msgid ""
+"This resists elemental damage. (50% resistance to cold, fire, and arcane.)"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:897
+msgid "Weapon Armor"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:898
+msgid ""
+"This resists weapon damage. (50% resistance to blade, pierce, and impact.)"
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_enemy
+#: MAP/scenarios/MAP.cfg:934
+msgid "Examine Enemy"
+msgstr ""
+
+#. [unit_type]: id=Rubble Weak, race=mechanical
+#. [message]: speaker=narrator
+#: MAP/units/rubble_weak.cfg:38 MAP/scenarios/MAP.cfg:948
+msgid ""
+"This rubble looks very weak. It should be able to be cleared by a simple "
+"energy blast."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:949 MAP/scenarios/MAP.cfg:959
+#: MAP/scenarios/MAP.cfg:969 MAP/scenarios/MAP.cfg:979
+#: MAP/scenarios/MAP.cfg:989 MAP/scenarios/MAP.cfg:999
+#: MAP/scenarios/MAP.cfg:1009 MAP/scenarios/MAP.cfg:1019
+#: MAP/scenarios/MAP.cfg:1029 MAP/scenarios/MAP.cfg:1039
+#: MAP/scenarios/MAP.cfg:1049 MAP/scenarios/MAP.cfg:1059
+#: MAP/scenarios/MAP.cfg:1069
+msgid "Examination Complete! ("
+msgstr ""
+
+#. [unit_type]: id=Rubble Average, race=mechanical
+#. [message]: speaker=narrator
+#: MAP/units/rubble_average.cfg:40 MAP/scenarios/MAP.cfg:958
+msgid ""
+"This rubble looks somewhat unstable. However, a few elemental energy blasts "
+"should be able to be clear this rubble."
+msgstr ""
+
+#. [unit_type]: id=Rubble Strong, race=mechanical
+#. [message]: speaker=narrator
+#: MAP/units/rubble_strong.cfg:40 MAP/scenarios/MAP.cfg:968
+msgid ""
+"This rubble doesn't look like it's going anywhere soon. Although, maybe "
+"siege-like attacks could be able to be clear this rubble."
+msgstr ""
+
+#. [unit_type]: id=Rubble Epic, race=mechanical
+#. [message]: speaker=narrator
+#: MAP/units/rubble_epic.cfg:40 MAP/scenarios/MAP.cfg:978
+msgid ""
+"This rubble looks to strong to be damaged by conventional means. However, it "
+"seems that blade-like attacks is a weakness of this rubble."
+msgstr ""
+
+#. [unit_type]: id=Zlap, race=Insect
+#. [message]: speaker=narrator
+#: MAP/units/zlap.cfg:37 MAP/scenarios/MAP.cfg:988
+msgid ""
+"This flying, insect-like, creature has the ability to fly very quickly. They "
+"feed off any form of energy they can find. However, they cannot heal from "
+"the drained energy."
+msgstr ""
+
+#. [unit_type]: id=Smlug, race=Insect
+#. [message]: speaker=narrator
+#: MAP/units/smlug.cfg:44 MAP/scenarios/MAP.cfg:998
+msgid ""
+"This mud-like, slug seems to love living in water environments. It has the "
+"ability to regenerate in swamp environments as well. The Smlug likes to use "
+"mud as his weapon to keep threats away."
+msgstr ""
+
+#. [unit_type]: id=Peko, race=Insect
+#. [message]: speaker=narrator
+#: MAP/units/peko.cfg:27 MAP/scenarios/MAP.cfg:1008
+msgid ""
+"This four legged, spider-like, creature has a hard outer shell with small "
+"spikes. This creature looks very hard to damage due to the resistance it "
+"has. Even it's long legs are sharp as nails. Avoid combat whenever possible."
+msgstr ""
+
+#. [unit_type]: id=Versant, race=Insect
+#. [message]: speaker=narrator
+#: MAP/units/versant.cfg:27 MAP/scenarios/MAP.cfg:1018
+msgid ""
+"This snake-like, creature likes to live in jungle-like environments. They "
+"rarely attack unless approached. When they do attack, they spew out very "
+"unique chemicals."
+msgstr ""
+
+#. [unit_type]: id=Harok, race=Insect
+#. [message]: speaker=narrator
+#: MAP/units/harok.cfg:27 MAP/scenarios/MAP.cfg:1028
+msgid ""
+"This strange, rock-like, creature is very resistance to all attacks. "
+"However, he is slow and defenceless. If you want to continue down the path, "
+"you have to kill him."
+msgstr ""
+
+#. [unit_type]: id=Sullif, race=Fish
+#. [message]: speaker=narrator
+#: MAP/units/sullif.cfg:27 MAP/scenarios/MAP.cfg:1038
+msgid ""
+"This fish-like, beast is very large in size. However, it's scales are very "
+"weak and vulnerable to any based attack. (Except cold.)"
+msgstr ""
+
+#. [unit_type]: id=Lavmar, race=Insect
+#. [message]: speaker=narrator
+#: MAP/units/lavmar.cfg:38 MAP/scenarios/MAP.cfg:1048
+msgid ""
+"This flying, insect-like, creature is basically suicidal. They live within "
+"the lava of the planets core and attack anything that gets too close. Apon "
+"attacking, they self destruct. (Throwing lava and it's own body parts.)"
+msgstr ""
+
+#. [unit_type]: id=Guard, race=mechanical
+#. [message]: speaker=narrator
+#: MAP/units/guard.cfg:27 MAP/scenarios/MAP.cfg:1058
+msgid ""
+"This strange, mechanical statue seems to be guarding this location. He has "
+"long, sharp, sword-like claws on his hand. Extreme caution should be used "
+"when encountering."
+msgstr ""
+
+#. [unit_type]: id=Blade Guardian, race=mechanical
+#. [message]: speaker=narrator
+#: MAP/units/blade_guardian.cfg:27 MAP/scenarios/MAP.cfg:1068
+msgid ""
+"This strange, mechanical statue seems to be guarding this location. He has a "
+"long, sharp, sword-like blade equipped in his hand. It looks like the dragon "
+"statues seen around the planet. Extreme caution should be used when "
+"encountering the Blade Guardians."
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_upgrade
+#: MAP/scenarios/MAP.cfg:1083
+msgid "Examine Upgrade"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1094
+msgid ""
+"This appears to be some kind of upgradable item for you. Move to it to find "
+"out what ability/upgrade/weapon it is."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1095
+msgid "Examination Complete! ( Upgrade )"
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_mechanism
+#: MAP/scenarios/MAP.cfg:1108
+msgid "Examine Mechanism"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1119
+msgid ""
+"This appears to be some kind of locking mechanism. Move to it to unlock "
+"something inside the underground world."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1120
+msgid "Examination Complete! ( Locking Mechanism )"
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_machine
+#: MAP/scenarios/MAP.cfg:1133
+msgid "Examine Machine"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1144
+msgid ""
+"This appears to be some kind of recharging machine of some sort. Moving to "
+"it could recharge your energy cores."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1145
+msgid "Examination Complete! ( Recharging Machine )"
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_hook
+#: MAP/scenarios/MAP.cfg:1158
+msgid "Examine Hook"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1169
+msgid ""
+"This appears to be some kind of grabbable hook. If you move here with a hook-"
+"like device, you should be able to hold on to it."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1170
+msgid "Examination Complete! ( Grabbable Hook )"
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_statue
+#: MAP/scenarios/MAP.cfg:1183
+msgid "Examine Statue"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1194
+msgid ""
+"This appears to be some kind of statue; representing a race. It looks dragon-"
+"like in design. This means, intelligent life form(s) may exist on this "
+"planet."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1195
+msgid "Examination Complete! ( Statue of a Race )"
+msgstr ""
+
+#. [set_menu_item]: id=MAP_examine_tower
+#: MAP/scenarios/MAP.cfg:1208
+msgid "Examine Tower"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1219
+msgid ""
+"This appears to be some kind of tower; The guards like to hide within these "
+"towers."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1220
+msgid "Examination Complete! ( Tower )"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1267
+msgid "Bolt/Rock Ammo"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1268
+msgid ""
+"This gives you +5 ammo. (You can now shoot 5 extra rocks/bolts. However, "
+"they run out when used. Although, you will always have at least one.)"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1316
+msgid "Energy Core"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1317
+msgid "This gives you +50 energy. (You now got +50 maximum hitpoints.)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1622 MAP/scenarios/MAP.cfg:1652
+msgid "You are fully healed from the recharge machine."
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1692 MAP/scenarios/MAP.cfg:1720
+msgid "Bolt Ammo"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1693 MAP/scenarios/MAP.cfg:1721
+#: MAP/scenarios/MAP.cfg:1777
+msgid "You used up a bolt. Add -1 to attacks."
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1748 MAP/scenarios/MAP.cfg:1776
+msgid "Rock Ammo"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1749
+msgid "You used up a rock. Add -1 to attacks."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1891
+msgid ""
+"Intruder detected... Activating Blade Guardian... Task complete... "
+"Activating lock down mode... Task complete..."
+msgstr ""
+
+#. [message]
+#: MAP/scenarios/MAP.cfg:1925
+msgid ""
+"Falcon XVI, I am returning to the ship... It seems that there is intelligent "
+"life forms here... However, all of them became hostile toward me... I "
+"acquired a lot of data from this race... I will inform you once I arrive."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1929
+msgid "Falcon XVI"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1930
+msgid "Acknowledged."
+msgstr ""
+
+#. [message]
+#: MAP/scenarios/MAP.cfg:1953
+msgid "Energy supply failure... Self Destruct activated!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: MAP/scenarios/MAP.cfg:1975
+msgid ""
+"Blade Guardian destroyed... Results... Impossible... Error... Error... "
+"Warning... System shutting down..."
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1996
+msgid "Long Blade"
+msgstr ""
+
+#. [object]
+#: MAP/scenarios/MAP.cfg:1997
+msgid ""
+"This allows you to shoot swing a long, powerful, sword. (This deals blade "
+"damage.)"
+msgstr ""
+
+#. [effect]: type=blade
+#: MAP/scenarios/MAP.cfg:2005
+msgid "long blade"
+msgstr ""
+
+#. [unit_type]: id=Android, race=mechanical
+#: MAP/units/android.cfg:5
+msgid "Android"
+msgstr ""
+
+#. [advancement]: id=amla_map
+#: MAP/units/rubble_average.cfg:22 MAP/units/versant.cfg:22
+#: MAP/units/rubble_weak.cfg:22 MAP/units/smlug.cfg:22 MAP/units/sullif.cfg:22
+#: MAP/units/android.cfg:22 MAP/units/guard.cfg:22 MAP/units/lock.cfg:22
+#: MAP/units/zlap.cfg:22 MAP/units/peko.cfg:22 MAP/units/lavmar.cfg:23
+#: MAP/units/rubble_strong.cfg:22 MAP/units/harok.cfg:22
+#: MAP/units/rubble_epic.cfg:22 MAP/units/blade_guardian.cfg:22
+msgid "Nothing happens."
+msgstr ""
+
+#. [unit_type]: id=Android, race=mechanical
+#: MAP/units/android.cfg:27
+msgid ""
+"This mechanical android is made up of processors, eletronical circuits, a "
+"humanoid like shell, and many modifiable connectors to the outer shell. He "
+"can use any electronical-like devices/parts and attach them or modify them "
+"as need be to use it."
+msgstr ""
+
+#. [attack]: type=arcane
+#: MAP/units/android.cfg:36
+msgid "energy cannon"
+msgstr ""
+
+#. [unit_type]: id=Blade Guardian, race=mechanical
+#: MAP/units/blade_guardian.cfg:5
+msgid "Blade Guardian"
+msgstr ""
+
+#. [attack]: type=blade
+#: MAP/units/blade_guardian.cfg:36
+msgid "guardian blade"
+msgstr ""
+
+#. [unit_type]: id=Guard, race=mechanical
+#: MAP/units/guard.cfg:5
+msgid "Guard"
+msgstr ""
+
+#. [attack]: type=blade
+#: MAP/units/guard.cfg:36
+msgid "guardian claws"
+msgstr ""
+
+#. [unit_type]: id=Harok, race=Insect
+#: MAP/units/harok.cfg:5
+msgid "Harok"
+msgstr ""
+
+#. [unit_type]: id=Lavmar, race=Insect
+#: MAP/units/lavmar.cfg:5
+msgid "Lavmar"
+msgstr ""
+
+#. [skirmisher]: id=careless
+#: MAP/units/lavmar.cfg:28
+msgid "careless"
+msgstr ""
+
+#. [skirmisher]: id=careless
+#: MAP/units/lavmar.cfg:29
+msgid "female^careless"
+msgstr ""
+
+#. [skirmisher]: id=careless
+#: MAP/units/lavmar.cfg:31
+msgid ""
+"Careless:\n"
+"This unit basically kills theirself by attacking anything that approaches "
+"it. This unit also ignores all enemy Zones of Control."
+msgstr ""
+
+#. [attack]: type=fire
+#: MAP/units/lavmar.cfg:41
+msgid "self destruct"
+msgstr ""
+
+#. [unit_type]: id=Lock, race=mechanical
+#: MAP/units/lock.cfg:5
+msgid "Lock"
+msgstr ""
+
+#. [regenerate]: id=lock regeneration
+#: MAP/units/lock.cfg:28
+msgid "lock regeneration"
+msgstr ""
+
+#. [regenerate]: id=lock regeneration
+#: MAP/units/lock.cfg:29
+msgid "female^lock regeneration"
+msgstr ""
+
+#. [regenerate]: id=lock regeneration
+#: MAP/units/lock.cfg:31
+msgid ""
+"Lock Regeneration:\n"
+"The lock seems to be extremely stable. This causes the lock to pretty much "
+"regenerate itself."
+msgstr ""
+
+#. [unit_type]: id=Lock, race=mechanical
+#: MAP/units/lock.cfg:40
+msgid "This lock will not be opened unless, you have the key..."
+msgstr ""
+
+#. [unit_type]: id=Peko, race=Insect
+#: MAP/units/peko.cfg:5
+msgid "Peko"
+msgstr ""
+
+#. [attack]: type=pierce
+#: MAP/units/peko.cfg:30
+msgid "sharp leg"
+msgstr ""
+
+#. [unit_type]: id=Rubble Average, race=mechanical
+#: MAP/units/rubble_average.cfg:5
+msgid "Rubble Average"
+msgstr ""
+
+#. [regenerate]: id=rubble regeneration
+#: MAP/units/rubble_average.cfg:28 MAP/units/rubble_weak.cfg:28
+#: MAP/units/rubble_strong.cfg:28 MAP/units/rubble_epic.cfg:28
+msgid "rubble regeneration"
+msgstr ""
+
+#. [regenerate]: id=rubble regeneration
+#: MAP/units/rubble_average.cfg:29 MAP/units/rubble_weak.cfg:29
+#: MAP/units/rubble_strong.cfg:29 MAP/units/rubble_epic.cfg:29
+msgid "female^rubble regeneration"
+msgstr ""
+
+#. [regenerate]: id=rubble regeneration
+#: MAP/units/rubble_average.cfg:31 MAP/units/rubble_weak.cfg:31
+#: MAP/units/rubble_strong.cfg:31 MAP/units/rubble_epic.cfg:31
+msgid ""
+"Rubble Regeneration:\n"
+"The rubble always seems to reorganize itself apon being attacked. This "
+"causes the rubble to regenerate itself and clog up the area even more."
+msgstr ""
+
+#. [unit_type]: id=Rubble Epic, race=mechanical
+#: MAP/units/rubble_epic.cfg:5
+msgid "Rubble Epic"
+msgstr ""
+
+#. [unit_type]: id=Rubble Strong, race=mechanical
+#: MAP/units/rubble_strong.cfg:5
+msgid "Rubble Strong"
+msgstr ""
+
+#. [unit_type]: id=Rubble Weak, race=mechanical
+#: MAP/units/rubble_weak.cfg:5
+msgid "Rubble Weak"
+msgstr ""
+
+#. [unit_type]: id=Smlug, race=Insect
+#: MAP/units/smlug.cfg:5
+msgid "Smlug"
+msgstr ""
+
+#. [regenerate]: id=swamp regeneration
+#: MAP/units/smlug.cfg:28
+msgid "swamp regeneration"
+msgstr ""
+
+#. [regenerate]: id=swamp regeneration
+#: MAP/units/smlug.cfg:29
+msgid "female^swamp regeneration"
+msgstr ""
+
+#. [regenerate]: id=swamp regeneration
+#: MAP/units/smlug.cfg:31
+msgid ""
+"Swamp Regeneration:\n"
+"The unit will heal itself 5 HP per turn in swamp terrains."
+msgstr ""
+
+#. [attack]: type=cold
+#: MAP/units/smlug.cfg:47
+msgid "mud throw"
+msgstr ""
+
+#. [unit_type]: id=Sullif, race=Fish
+#: MAP/units/sullif.cfg:5
+msgid "Sullif"
+msgstr ""
+
+#. [attack]: type=pierce
+#: MAP/units/sullif.cfg:30
+msgid "bite"
+msgstr ""
+
+#. [unit_type]: id=Versant, race=Insect
+#: MAP/units/versant.cfg:5
+msgid "Versant"
+msgstr ""
+
+#. [attack]: type=fire
+#: MAP/units/versant.cfg:30
+msgid "flame chemical"
+msgstr ""
+
+#. [chance_to_hit]: id=gas
+#: MAP/units/versant.cfg:39 MAP/units/versant.cfg:58
+msgid "gas"
+msgstr ""
+
+#. [chance_to_hit]: id=gas
+#: MAP/units/versant.cfg:41 MAP/units/versant.cfg:60
+msgid ""
+"Gas:\n"
+"This attack spreads out and has at least a 40% chance to hit."
+msgstr ""
+
+#. [attack]: type=cold
+#: MAP/units/versant.cfg:49
+msgid "cold chemical"
+msgstr ""
+
+#. [attack]: type=arcane
+#: MAP/units/versant.cfg:68
+msgid "energetic chemical"
+msgstr ""
+
+#. [chance_to_hit]: id=unstable
+#: MAP/units/versant.cfg:77
+msgid "unstable"
+msgstr ""
+
+#. [chance_to_hit]: id=unstable
+#: MAP/units/versant.cfg:79
+msgid ""
+"Unstable:\n"
+"This attack spreads out very erratically and has only a 20% chance to hit."
+msgstr ""
+
+#. [unit_type]: id=Zlap, race=Insect
+#: MAP/units/zlap.cfg:5
+msgid "Zlap"
+msgstr ""
+
+#. [skirmisher]: id=quickness
+#: MAP/units/zlap.cfg:27
+msgid "quickness"
+msgstr ""
+
+#. [skirmisher]: id=quickness
+#: MAP/units/zlap.cfg:28
+msgid "female^quickness"
+msgstr ""
+
+#. [skirmisher]: id=quickness
+#: MAP/units/zlap.cfg:30
+msgid ""
+"Quickness:\n"
+"This unit is a very fast flier and ignores all enemy Zones of Control."
+msgstr ""
+
+#. [attack]: type=arcane
+#: MAP/units/zlap.cfg:40
+msgid "energy drain"
+msgstr ""
