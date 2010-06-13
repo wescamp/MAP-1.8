@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-06-10 22:28+0200\n"
+"POT-Creation-Date: 2010-06-13 17:43+0200\n"
 "PO-Revision-Date: 2010-06-10 22:28+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [campaign]: id=MAP
@@ -626,40 +626,40 @@ msgid "This gives you +50 energy. (You now got +50 maximum hitpoints.)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: MAP/scenarios/MAP.cfg:1622 MAP/scenarios/MAP.cfg:1652
+#: MAP/scenarios/MAP.cfg:1638 MAP/scenarios/MAP.cfg:1668
 msgid "You are fully healed from the recharge machine."
 msgstr ""
 
 #. [object]
-#: MAP/scenarios/MAP.cfg:1692 MAP/scenarios/MAP.cfg:1720
+#: MAP/scenarios/MAP.cfg:1708 MAP/scenarios/MAP.cfg:1736
 msgid "Bolt Ammo"
 msgstr ""
 
 #. [object]
-#: MAP/scenarios/MAP.cfg:1693 MAP/scenarios/MAP.cfg:1721
-#: MAP/scenarios/MAP.cfg:1777
+#: MAP/scenarios/MAP.cfg:1709 MAP/scenarios/MAP.cfg:1737
+#: MAP/scenarios/MAP.cfg:1793
 msgid "You used up a bolt. Add -1 to attacks."
 msgstr ""
 
 #. [object]
-#: MAP/scenarios/MAP.cfg:1748 MAP/scenarios/MAP.cfg:1776
+#: MAP/scenarios/MAP.cfg:1764 MAP/scenarios/MAP.cfg:1792
 msgid "Rock Ammo"
 msgstr ""
 
 #. [object]
-#: MAP/scenarios/MAP.cfg:1749
+#: MAP/scenarios/MAP.cfg:1765
 msgid "You used up a rock. Add -1 to attacks."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: MAP/scenarios/MAP.cfg:1891
+#: MAP/scenarios/MAP.cfg:1907
 msgid ""
 "Intruder detected... Activating Blade Guardian... Task complete... "
 "Activating lock down mode... Task complete..."
 msgstr ""
 
 #. [message]
-#: MAP/scenarios/MAP.cfg:1925
+#: MAP/scenarios/MAP.cfg:1926
 msgid ""
 "Falcon XVI, I am returning to the ship... It seems that there is intelligent "
 "life forms here... However, all of them became hostile toward me... I "
@@ -667,41 +667,41 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: MAP/scenarios/MAP.cfg:1929
+#: MAP/scenarios/MAP.cfg:1930
 msgid "Falcon XVI"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: MAP/scenarios/MAP.cfg:1930
+#: MAP/scenarios/MAP.cfg:1931
 msgid "Acknowledged."
 msgstr ""
 
 #. [message]
-#: MAP/scenarios/MAP.cfg:1953
+#: MAP/scenarios/MAP.cfg:1954
 msgid "Energy supply failure... Self Destruct activated!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: MAP/scenarios/MAP.cfg:1975
+#: MAP/scenarios/MAP.cfg:1976
 msgid ""
 "Blade Guardian destroyed... Results... Impossible... Error... Error... "
 "Warning... System shutting down..."
 msgstr ""
 
 #. [object]
-#: MAP/scenarios/MAP.cfg:1996
+#: MAP/scenarios/MAP.cfg:1997
 msgid "Long Blade"
 msgstr ""
 
 #. [object]
-#: MAP/scenarios/MAP.cfg:1997
+#: MAP/scenarios/MAP.cfg:1998
 msgid ""
 "This allows you to shoot swing a long, powerful, sword. (This deals blade "
 "damage.)"
 msgstr ""
 
 #. [effect]: type=blade
-#: MAP/scenarios/MAP.cfg:2005
+#: MAP/scenarios/MAP.cfg:2006
 msgid "long blade"
 msgstr ""
 
