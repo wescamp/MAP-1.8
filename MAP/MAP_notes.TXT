@@ -1,3 +1,10 @@
 * There is a lot to do with this project. I am temporarly using default images for enemy sprites/protraits. I need someone to create custom sprites/images for me. I may design a few later on though. But for now, these will do.
 * There is no difference with difficulty at the moment. I have yet to decide on what makes the game harder/easier. (Most likely, more enemies, bonus damage, etc...) Although, more on that in the future...
-* finally fixed the teleporting location near the end of the game. I apologize for this not working from updating it twice... (i tested it myself. it works...)
+* Finally fixed the teleporting location near the end of the game. I apologize for this not working from updating it twice... (i tested it myself. it works...)
+* Decided to add new enemies (for normal/hard difficulties. The current settings is for easy mode. Even though, it's already somewhat challanging. In progress...)
+* Added new images for most of the units and updated space background picture.
+* Modified the difficulties, added new enemies, modified the map, added new armor, gravity now scrolls to player apon falling, and many more updates/fixes/etc...
+* Added a new intro scenario and moved the scenario information messages to that scenario. I also reduced a lot of the lines of code by adding new macros.
+* i had to temporaraly remove the gravity code on enemies. I may/may not re-add this back in. Depends on what the developers tell me.
+* releases MAP as version 1.0.0
+* minor changes/fixes and released 1.0.1
